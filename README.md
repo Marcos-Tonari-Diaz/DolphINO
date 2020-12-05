@@ -1,7 +1,10 @@
 # DolphINO
 Little project to use Arduino pushbuttons as input to the Dolphin emulator
+
 ![Test image](test.png)
+
 Tested on Ubuntu 18.04.2 LTS
+
 Dolphin pipe input documentation: https://wiki.dolphin-emu.org/index.php?title=Pipe_Input
 
 ## Instructions
