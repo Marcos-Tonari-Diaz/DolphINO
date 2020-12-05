@@ -1,6 +1,6 @@
 # DolphINO
 Little project to use Arduino pushbuttons as input to the Dolphin emulator
-
+![Test image](test.png)
 Tested on Ubuntu 18.04.2 LTS
 
 ## Instructions
